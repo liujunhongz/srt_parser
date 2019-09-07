@@ -1,0 +1,228 @@
+1
+00:00:01,620 --> 00:00:08,370
+Welcome to this advanced javascript course way you will learn concepts and techniques to transform you
+
+2
+00:00:08,610 --> 00:00:14,020
+from a junior javascript developer to a senior javascript guru.
+
+3
+00:00:14,040 --> 00:00:20,520
+My name is ask him and I have over the years experience building applications for clients such as the
+
+4
+00:00:20,520 --> 00:00:23,490
+European Space Agency and Google.
+
+5
+00:00:23,490 --> 00:00:29,570
+I've also been a take BP at JP Morgan and Morgan Stanley investment banks.
+
+6
+00:00:29,610 --> 00:00:36,420
+Now I run my own digital agency in London called bubble gum and we build apps for awesome clients all
+
+7
+00:00:36,420 --> 00:00:44,090
+over the world and I also teach javascript angular J.S. and I only development through my company cockcrow
+
+8
+00:00:44,110 --> 00:00:44,560
+.
+
+9
+00:00:45,150 --> 00:00:49,610
+So there are already a bunch of advanced javascript courses out there.
+
+10
+00:00:49,770 --> 00:00:52,330
+Why should you take this one.
+
+11
+00:00:52,530 --> 00:00:55,850
+Number one is because I value your time.
+
+12
+00:00:55,890 --> 00:01:02,020
+If you are even a fraction as busy as I am then your time is incredibly important to me.
+
+13
+00:01:02,180 --> 00:01:03,790
+So I don't waste time.
+
+14
+00:01:03,840 --> 00:01:09,780
+I've created this course to pass along the maximum knowledge with the minimum time.
+
+15
+00:01:09,780 --> 00:01:17,100
+Now notice I didn't say minimum after this will be three hours of hard work but I promise you after
+
+16
+00:01:17,220 --> 00:01:21,740
+only three hours you'll have leveled up your javascript knowledge.
+
+17
+00:01:21,750 --> 00:01:27,460
+Now the second reason I say it picked this cause is that the former is all really unique.
+
+18
+00:01:27,480 --> 00:01:33,450
+I'm going to teach you all of these advanced topics through a series of interview questions.
+
+19
+00:01:33,450 --> 00:01:35,390
+We all get lazy in our jobs.
+
+20
+00:01:35,400 --> 00:01:41,160
+We all get comfortable with our level of knowledge and only when faced with an interview because it
+
+21
+00:01:41,160 --> 00:01:46,770
+forces us to try and verify our assumptions and deepen our knowledge.
+
+22
+00:01:46,770 --> 00:01:51,040
+It also makes for a pretty focused and practical course.
+
+23
+00:01:51,060 --> 00:01:55,380
+Take this in preparation for an interview or perhaps you're hiring.
+
+24
+00:01:55,380 --> 00:01:58,350
+I want to make sure you're asking the right questions.
+
+25
+00:01:58,350 --> 00:02:02,450
+Or maybe you just want the knowledge to be a better developer.
+
+26
+00:02:02,460 --> 00:02:08,990
+Whatever the reason if you want to become a senior javascript developer This cost is the cost for you
+
+27
+00:02:09,000 --> 00:02:09,430
+.
+
+28
+00:02:09,810 --> 00:02:12,710
+So what are you actually going to learn.
+
+29
+00:02:13,010 --> 00:02:19,190
+We are going to cover a number of topics in the form of a series of interview questions.
+
+30
+00:02:19,230 --> 00:02:23,190
+Now a third is going to cover just some really important basics such as what to do.
+
+31
+00:02:23,190 --> 00:02:31,110
+Use strict keyword do and does javascript pass by reference or by value with Dangote to cover the concepts
+
+32
+00:02:31,140 --> 00:02:33,680
+of equality and types in Javascript.
+
+33
+00:02:33,680 --> 00:02:39,570
+So what are the different types and how do you actually make sure that two things are equal in javascript
+
+34
+00:02:40,200 --> 00:02:45,420
+then going to cover the broad topic of scopes in javascript so we go going to discuss the different
+
+35
+00:02:45,600 --> 00:02:47,920
+scopes so variable can be declared in.
+
+36
+00:02:48,030 --> 00:02:50,610
+We're going to discuss variable hoisting.
+
+37
+00:02:50,760 --> 00:02:53,280
+We're going to discuss the scope chain.
+
+38
+00:02:53,280 --> 00:02:56,510
+We're going to ask what are I f is.
+
+39
+00:02:56,640 --> 00:03:03,660
+I'm going to ask what function closures with anger and to discuss the thorny topic of object orientation
+
+40
+00:03:03,690 --> 00:03:05,080
+in javascript.
+
+41
+00:03:05,080 --> 00:03:09,390
+We don't see discussing explain what the this key word actually means.
+
+42
+00:03:09,390 --> 00:03:16,980
+We're going to also explain what we call bind and apply functions do and we're then going to apply that
+
+43
+00:03:16,980 --> 00:03:23,700
+knowledge and discuss two different competing objects orientated methodologies and javascript's with
+
+44
+00:03:23,700 --> 00:03:27,970
+both the prototype pattern and the constructor pattern.
+
+45
+00:03:28,040 --> 00:03:30,360
+We're then going to cover two topics and network.
+
+46
+00:03:30,420 --> 00:03:37,440
+I believe every SR javascript developers should know and know in detail and that is what is called The
+
+47
+00:03:37,440 --> 00:03:42,190
+Cross origin resource sharing and what is Jason P..
+
+48
+00:03:42,540 --> 00:03:48,160
+I'm going to finish with some advanced questions on events and event handling under the hood.
+
+49
+00:03:48,300 --> 00:03:54,770
+In javascript the ideal student for this course is an existing javascript developer.
+
+50
+00:03:54,840 --> 00:04:01,770
+We won't be covering any of the basics on this course at the very least you need to know how to declare
+
+51
+00:04:01,770 --> 00:04:03,360
+variables in javascript.
+
+52
+00:04:03,360 --> 00:04:09,630
+How to Create and call functions how to perform loops in javascript and breakouts of those leaves and
+
+53
+00:04:09,630 --> 00:04:16,210
+also how to perform string manipulation and you must have already built a javascript application of
+
+54
+00:04:16,210 --> 00:04:18,650
+at least a thousand lines of code.
+
+55
+00:04:18,660 --> 00:04:24,600
+Now if that sounds like you feel free to take a look at the course description preview any of the lectures
+
+56
+00:04:24,870 --> 00:04:27,180
+and I look forward to seeing you on the inside
+
+57
+00:04:29,050 --> 00:04:31,780
+.
+
